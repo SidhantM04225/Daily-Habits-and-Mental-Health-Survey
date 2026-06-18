@@ -104,7 +104,7 @@ Activities involving social interaction and relaxation were more strongly associ
 Mental Health Services Are Underutilized
 Most students reported rarely or never using Virginia Tech mental health services, despite many users finding them beneficial.
 
-# Business Impact
+## Business Impact
 This analysis provides actionable insights for:
 ## Students
 •	Understand habits associated with better well-being.
@@ -116,7 +116,7 @@ This analysis provides actionable insights for:
 •	Better understand behavioral patterns linked to student wellness.
 •	Design targeted intervention programs.
 
-# Visualization Techniques Used
+## Visualization Techniques Used
 •	Highlight Tables
 •	Heat Maps
 •	Stacked Bar Charts
@@ -124,10 +124,10 @@ This analysis provides actionable insights for:
 •	Interactive Filters
 •	Comparative Analysis Dashboards
 
-# Project Outcome
+## Project Outcome
 The project demonstrates how data visualization and storytelling can transform survey data into actionable insights. By highlighting relationships between lifestyle choices and mental health, the dashboards provide a foundation for promoting healthier behaviors and supporting student well-being initiatives at Virginia Tech.
 
-# Future Improvements
+## Future Improvements
 •	Expand survey sample size beyond 160 respondents.
 •	Include longitudinal data collection across semesters.
 •	Apply predictive analytics to identify at-risk student populations.
