@@ -12,6 +12,7 @@ This project seeks to answer:
 •	How can universities use these insights to improve student support services?
 
 ## Dataset
+<a href="https://github.com/SidhantM04225/Daily-Habits-and-Mental-Health-Survey/blob/main/Daily%20Habits%20and%20Mental%20Health.xlsx">Daily Habits and Mental Health Survey</a>
 The analysis is based on a survey conducted among 160 Virginia Tech students during Spring 2026.
 Data Categories
 •	Demographics
