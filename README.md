@@ -104,7 +104,7 @@ Activities involving social interaction and relaxation were more strongly associ
 Mental Health Services Are Underutilized
 Most students reported rarely or never using Virginia Tech mental health services, despite many users finding them beneficial.
 
-## Business Impact
+# Business Impact
 This analysis provides actionable insights for:
 ## Students
 •	Understand habits associated with better well-being.
