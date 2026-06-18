@@ -88,6 +88,10 @@ Provides a comprehensive view of:
 •	Openness in discussing mental health
 through interactive visualizations.
 
+## Dashboard
+<img width="958" height="539" alt="View Dashboard" src="https://github.com/user-attachments/assets/c117feca-2497-494f-b157-967aa3e9bd43" />
+
+
 ## Key Findings
 Sleep Matters
 Students who reported getting more sleep generally reported better mental health ratings.
