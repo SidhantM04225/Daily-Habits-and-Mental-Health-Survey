@@ -1,11 +1,9 @@
-# Daily-Habits-and-Mental-Health-Survey
-
-##Daily Habits and Mental Health: A Virginia Tech Student Analytics Study
-#Overview
+# Daily Habits and Mental Health: A Virginia Tech Student Analytics Study
+## Overview
 Mental health is a growing concern among college students, and daily lifestyle choices often play a significant role in shaping overall well-being. This project investigates the relationship between student habits, academic experiences, and mental health outcomes among Virginia Tech students.
 Using survey responses from 160 Virginia Tech students, we developed an interactive Tableau dashboard suite to identify patterns between lifestyle behaviors and self-reported mental health ratings. The goal of the project is to help students, educators, and mental health professionals better understand how everyday choices influence well-being.
 
-#Problem Statement
+## Problem Statement
 College students face a variety of academic, social, and personal pressures that can affect their mental health. While factors such as sleep, exercise, social relationships, academic rigor, and extracurricular involvement are often discussed individually, there is limited visibility into how these variables collectively influence student well-being.
 This project seeks to answer:
 •	Which daily habits are associated with better mental health?
@@ -13,7 +11,7 @@ This project seeks to answer:
 •	Do social activities, exercise, and sleep correlate with mental health outcomes?
 •	How can universities use these insights to improve student support services?
 
-#Dataset
+## Dataset
 The analysis is based on a survey conducted among 160 Virginia Tech students during Spring 2026.
 Data Categories
 •	Demographics
@@ -27,13 +25,13 @@ Data Categories
 •	Personal Relationships
 •	Self-Reported Mental Health Ratings
 
-#Tools & Technologies
+## Tools & Technologies
 •	Tableau Desktop
 •	Microsoft Excel
 •	Data Visualization & Storytelling Techniques
 •	Survey-Based Analytics
 
-#Dashboard Structure
+## Dashboard Structure
 The project is organized into multiple dashboards that collectively tell a data-driven story.
 1. Introduction & Demographics
 Provides an overview of survey respondents, including:
@@ -90,7 +88,7 @@ Provides a comprehensive view of:
 •	Openness in discussing mental health
 through interactive visualizations.
 
-#Key Findings
+## Key Findings
 Sleep Matters
 Students who reported getting more sleep generally reported better mental health ratings.
 Social Relationships Improve Well-Being
@@ -106,19 +104,19 @@ Activities involving social interaction and relaxation were more strongly associ
 Mental Health Services Are Underutilized
 Most students reported rarely or never using Virginia Tech mental health services, despite many users finding them beneficial.
 
-##Business Impact
+# Business Impact
 This analysis provides actionable insights for:
-#Students
+## Students
 •	Understand habits associated with better well-being.
 •	Make informed lifestyle adjustments.
-#University Administrators
+## University Administrators
 •	Identify areas where student support can be strengthened.
 •	Improve awareness and accessibility of mental health resources.
-#Mental Health Professionals
+## Mental Health Professionals
 •	Better understand behavioral patterns linked to student wellness.
 •	Design targeted intervention programs.
 
-#Visualization Techniques Used
+# Visualization Techniques Used
 •	Highlight Tables
 •	Heat Maps
 •	Stacked Bar Charts
@@ -126,10 +124,10 @@ This analysis provides actionable insights for:
 •	Interactive Filters
 •	Comparative Analysis Dashboards
 
-#Project Outcome
+# Project Outcome
 The project demonstrates how data visualization and storytelling can transform survey data into actionable insights. By highlighting relationships between lifestyle choices and mental health, the dashboards provide a foundation for promoting healthier behaviors and supporting student well-being initiatives at Virginia Tech.
 
-#Future Improvements
+# Future Improvements
 •	Expand survey sample size beyond 160 respondents.
 •	Include longitudinal data collection across semesters.
 •	Apply predictive analytics to identify at-risk student populations.
